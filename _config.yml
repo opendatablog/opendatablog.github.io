@@ -1,0 +1,83 @@
+# Site settings
+site: Open Data Blog
+title: Open Data Blog
+keywords: opendata,open data,open,data,opendatablog,open data blog, datablog,data blog
+description: >-
+  The open data blog
+lang: en-US
+timezone:  Europe/London
+repo: https://github.com/opendatablog/opendatablog.github.io # site repo [optional]
+google_verify:      XXX # Put your Google Verification here
+google_analytics:   UA-XXXXXXXX-00 # Put your Google Analytics code
+discus-identifier:  XXX
+
+# Author settings
+author:
+  name: Open Data Blog
+  bio: Technology Blog <br>Open Data <br> Open Source 
+  picture: 
+  github: opendatablog # github username
+  twitter: # twitter username
+  facebook: # facebook username
+  instagram: # instagram username
+  youtube:  # youtube username
+  linkedin: # linkedin username
+  email: mail.opendatablog@gmail.com # email adress
+
+
+# URL settings
+url: "https://opendata.blog" # Domain Name of host. [username].github.io for github pages
+permalink: pretty
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+
+exclude:
+  - .jekyll-cache
+  - .obsidian
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+  - CONTRIBUTING.md
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-relative-links
+paginate: 20
+paginate_path: "/page/:num"
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:slug
+  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+relative_links:
+  enabled:     true
+  collections: false
