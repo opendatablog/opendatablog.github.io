@@ -14,8 +14,8 @@ discus-identifier:  XXX
 # Author settings
 author:
   name: Open Data Blog
-  bio: Technology Blog <br>Open Data <br> Open Source 
-  picture: 
+  bio: Technology Blog <br>Data Science,AI & Stats<br>Purely Open Source 
+  picture: assets/images/favicon.png
   github: opendatablog # github username
   twitter: # twitter username
   facebook: # facebook username
