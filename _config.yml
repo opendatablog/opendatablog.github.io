@@ -8,7 +8,7 @@ lang: en-US
 timezone:  Europe/London
 repo: https://github.com/opendatablog/opendatablog.github.io # site repo [optional]
 google_verify:      XXX # Put your Google Verification here
-google_analytics:   UA-XXXXXXXX-00 # Put your Google Analytics code
+google_analytics:   G-2Z3TH1QNPJ # Put your Google Analytics code
 discus-identifier:  XXX
 
 # Author settings
