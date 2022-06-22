@@ -14,7 +14,8 @@ discus-identifier: open-data-blog
 # Author settings
 author:
   name: Open Data Blog
-  bio: Technology Blog <br>Data Science,AI & Stats<br>Purely Open Source 
+  bio: Technology Blog <br>Data Science, AI & Stats<br>Purely Open Source 
+  desc: A blog on open data, datasets, data science, statistcs, artificial intelligence and trends in technology. This blog is completely open source and built on top of open source technologies.
   picture: assets/images/favicon.png
   github: opendatablog # github username
   twitter: opendata_blog
