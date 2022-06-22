@@ -6,7 +6,7 @@ description: A blog on open data, datasets, data science, statistcs, artificial 
 lang: en-US
 timezone:  Europe/London
 repo: https://github.com/opendatablog/opendatablog.github.io # site repo [optional]
-google_verify:      QBMeWjI8s7WMKra # Put your Google Verification here
+google_verify:      QBMeWjI8s7WMKram8emRetfOXiP9PfRtE3pxKoEocFg # Put your Google Verification here
 google_analytics:   G-2Z3TH1QNPJ # Put your Google Analytics code
 google_adsense: ca-pub-8547389836635390  # Put your Google Adsense code
 discus-identifier: open-data-blog
