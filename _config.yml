@@ -2,7 +2,7 @@
 site: Open Data Blog
 title: Open Data Blog
 keywords: opendata,open data,open,data,opendatablog,open data blog, datablog,data blog,dataset, open dataset
-description: A blog on open data, datasets, data science, statistcs, artificial intelligence and trends in technology. This blog is completely open source and built on top of open source technologies.
+description: Open Data Blog | A blog on open data, datasets, data science, statistcs, artificial intelligence and trends in technology. This blog is completely open source and built on top of open source technologies.
 lang: en-US
 timezone:  Europe/London
 repo: https://github.com/opendatablog/opendatablog.github.io # site repo [optional]
@@ -15,7 +15,7 @@ discus-identifier: open-data-blog
 author:
   name: Open Data Blog
   bio: Technology Blog <br>Data Science, AI & Stats<br>Purely Open Source 
-  desc: A blog on open data, datasets, data science, statistcs, artificial intelligence and trends in technology. This blog is completely open source and built on top of open source technologies.
+  desc: Open Data Blog | A blog on open data, datasets, data science, statistcs, artificial intelligence and trends in technology. This blog is completely open source and built on top of open source technologies.
   picture: assets/images/favicon.png
   github: opendatablog # github username
   twitter: opendata_blog
