@@ -18,7 +18,8 @@ layout: default
 
 <div class="blog-post-content">
 	<h1>{{page.title}}</h1>
-	<h6><b>This post is written by <i>{{ page.author }}</i>. You can read more posts from {{ page.author }} <i>here</i>. You can contact {{ page.author }} <i>here</i>.</b></h6>
+	<h6><b>This post is written by <i>{{ page.author }}</i>. You can read more posts from {{ page.author }} <i>here</i>. 
+		You can contact {{ page.author }} <a href='{{ page.biolink }}'><i>here</i></a>.</b></h6>
 	{{ content }}
 </div>
 <div class="tags-container">
