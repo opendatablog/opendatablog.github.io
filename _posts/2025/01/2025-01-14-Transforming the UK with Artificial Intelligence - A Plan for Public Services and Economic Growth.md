@@ -56,7 +56,7 @@ This infrastructure development ensures that the UK is prepared to handle the in
 
 
 ![Plan For Change, UK Prime Minister](assets/images/posts/2025/01/ukainews1.jpg "Plan For Change, UK Prime Minister")
-###### Plan For Change, UK Prime Minister - Source : Wordl-Nuclear-News.Org - Via Google Images
+###### Plan For Change, UK Prime Minister - Source : World-Nuclear-News.Org - Via Google Images
 
 ### Establishing AI Growth Zones
 
